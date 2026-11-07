@@ -13,7 +13,7 @@
 
 - 🎓 Aprendiz del Tecnólogo en Análisis y Desarrollo de Software (ADSO) – SENA
 - 📊 Contador de profesión: aporto orden, lógica y atención al detalle
-- 🌱 Actualmente aprendiendo: la construcción mas eficiente de software
+- 🌱 Actualmente aprendiendo: la construcción más eficiente de software
 - 🎯 Objetivo: crecer como desarrollador frontend y construir interfaces de calidad
 
 ### 🛠️ Tecnologías
