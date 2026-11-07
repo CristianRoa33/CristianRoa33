@@ -1,7 +1,10 @@
 # CristianRoa33
 
-<h1 align="center">Hola, soy Cristian Roa 👋</h1>
-<h3 align="center">Análisis y Desarrollo de Software en proceso (SENA ADSO)</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Cristian%20Roa&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20Frontend&descSize=22&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Cristian+%F0%9F%91%8B;Creo+interfaces+web+claras+y+modernas;Aprendiz+ADSO+en+el+SENA;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Astro+%C2%B7+React" />
+</p>
 
 <p align="center">
    Me gusta crear interfaces web claras, ordenadas y fáciles de usar.
@@ -37,4 +40,4 @@
 
 ### 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccroa33@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
