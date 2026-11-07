@@ -1,9 +1,9 @@
 # CristianRoa33
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Cristian%20Roa&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20Frontend&descSize=22&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:191414,100:1DB954&height=220&section=header&text=Cristian%20Roa&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20Frontend&descSize=22&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Cristian+%F0%9F%91%8B;Creo+interfaces+web+claras+y+modernas;Aprendiz+ADSO+en+el+SENA;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Astro+%C2%B7+React" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Cristian+%F0%9F%91%8B;Creo+interfaces+web+claras+y+modernas;Aprendiz+ADSO+en+el+SENA;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Astro+%C2%B7+React" />
 </p>
 
 <p align="center">
@@ -40,4 +40,6 @@
 
 ### 📫 Contacto
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
+[![Email](https://img.shields.io/badge/ccroa33@gmail.com-1DB954?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccroa33@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:0f172a&height=120&section=footer" width="100%"/>
