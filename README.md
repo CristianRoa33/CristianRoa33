@@ -1,7 +1,7 @@
 # CristianRoa33
 
 <h1 align="center">Hola, soy Cristian Roa 👋</h1>
-<h3 align="center">Analisis y Desarrollo de Software en proceso (SENA ADSO)</h3>
+<h3 align="center">Análisis y Desarrollo de Software en proceso (SENA ADSO)</h3>
 
 <p align="center">
    Me gusta crear interfaces web claras, ordenadas y fáciles de usar.
