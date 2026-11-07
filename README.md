@@ -28,15 +28,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🚀 Proyectos destacados
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| [Proyecto Billeteras](https://github.com/CristianRoa33/Proyecto-Billeteras) | _(descripción pendiente)_ | Astro |
-| [Slyfox](https://github.com/CristianRoa33/Slyfox) | Landing page para empresa | Astro |
-| [Tutorial de café](https://github.com/CristianRoa33/tutorial-de-preparacion-cafe) | Guía web de preparación de café espresso | HTML · CSS |
-| [Registro de edades](https://github.com/CristianRoa33/Registro-edades) | App para recopilar y analizar datos demográficos | CSS · JS |
+| [La Rola](https://github.com/CristianRoa33/larola) | Ecommerce con carrito, órdenes de compra y pruebas automatizadas | React · Firebase |
+| [Slyfox](https://github.com/CristianRoa33/Slyfox) | Landing page para un cliente real | Astro · Tailwind |
+| [Proyecto Billeteras](https://github.com/CristianRoa33/Proyecto-Billeteras) | Tienda en línea de billeteras de cuero | Astro |
+| [Tutorial de café](https://github.com/CristianRoa33/tutorial-de-preparacion-cafe) | Guía web de bebidas a base de espresso | HTML · CSS · JS |
+| [Registro de edades](https://github.com/CristianRoa33/Registro-edades) | App para recopilar y analizar datos demográficos | HTML · CSS · JS |
+| [RadioRating](https://github.com/CristianRoa33/Informacion_canciones) | Encuesta musical con registro y rifa entre participantes | HTML · CSS · JS 
 
 ### 📫 Contacto
 
